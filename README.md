@@ -1,12 +1,15 @@
 <img align="center" alt="Coding" width="1000" height="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Gio</h1>
-<h3 align="center">A passionate Full-Stack developer</h3>
+
+- ⚡ I am a diligent, passionate self-taught Software Developer
+- ⚡ Always ready for a new challenges, studying and exploring unfamiliar areas of expertise
+- 💬 Ask me about **everything you want**
+
+- 📫 How to reach me **giogks97@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giogks&label=Profile%20views&color=0e75b6&style=flat" alt="giogks" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giogks" alt="giogks" /></a> </p>
-
-- 📫 How to reach me **giogks97@gmail.com**
 
 - ⚡ Fun fact **I am Adrenaline Geek**
 
