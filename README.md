@@ -9,11 +9,10 @@
 - 💬 Ask me about **everything you want**
 - 📫 How to reach me **giogks97@gmail.com**
 
+<br/>
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giogks&label=Profile%20views&color=0e75b6&style=flat" alt="giogks" /> </p>
-
-<br/>
-<br/>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giogks" alt="giogks" /></a> </p>
 
 
