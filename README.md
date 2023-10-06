@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="8000" height="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pdbd4hz7q57uv7q8ccu4osu4uqdhqvipi7p144ps&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="center" alt="Coding" width="400"  src="[https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pdbd4hz7q57uv7q8ccu4osu4uqdhqvipi7p144ps&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 <br/>
 <h1 align="center">Hi 👋, I'm Gio</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
