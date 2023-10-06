@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" height="200"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="1000" height="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br/>
 <h1 align="center">Hi 👋, I'm Gio</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
